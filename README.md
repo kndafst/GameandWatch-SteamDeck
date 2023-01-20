@@ -8,23 +8,23 @@ If you follow the detailed steps below, you will be able to play game and watch 
 
 ## Steps:
 ### Basic Configuration
-1. Parser type: Glob
-2. Configuration title: Game and Watch
-3. Steam category: ${Game and Watch}
-4. Steam directory: ${steamdirglobal}
+1. Parser type: `Glob`
+2. Configuration title: `Game and Watch`
+3. Steam category: `${Game and Watch}`
+4. Steam directory: `${steamdirglobal}`
 5. User accounts: 
 6. ![image for step 6](https://kndafst.com/wp-content/uploads/2023/01/step6.png)
-7. ROMs directory: ${romsdirglobal}/gameandwatch
+7. ROMs directory: `${romsdirglobal}/gameandwatch`
 
 ### Executable Configuration
-8. Executable: ${retroarchpath}
+8. Executable: `${retroarchpath}`
 9. ![image for step 9](https://kndafst.com/wp-content/uploads/2023/01/step9.png)
-10. Command line arguments: run org.libretro.RetroArch -L ${os:win|cores|${os:mac|${racores}|${os:linux|${racores}}}}${/}gw_libretro.${os:win|dll|${os:mac|dylib|${os:linux|so}}} "${filePath}"
-11. Executable modifier: "${exePath}"
+10. Command line arguments: `run org.libretro.RetroArch -L ${os:win|cores|${os:mac|${racores}|${os:linux|${racores}}}}${/}gw_libretro.${os:win|dll|${os:mac|dylib|${os:linux|so}}} "${filePath}"`
+11. Executable modifier: `"${exePath}"`
 12. Start in directory: 
 
 ### Parser Specific Configuration
-13. User's glob: ${title}@(.mgw|.MGW|.7z|.7Z|.zip|.ZIP)
+13. User's glob: `${title}@(.mgw|.MGW|.7z|.7Z|.zip|.ZIP`
 
 No further changes are necessary 
 
