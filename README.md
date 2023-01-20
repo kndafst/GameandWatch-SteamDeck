@@ -28,4 +28,6 @@ If you follow the detailed steps below, you will be able to play game and watch 
 
 No further changes are necessary 
 
+[Game Controls](/Game_Controls.md)
+
 
