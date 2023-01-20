@@ -4,6 +4,6 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 
 ## Game List
 
--item 1
-	- hidden item 2
-	- hidden item 3
+- item 1
+  - hidden item 2
+  - hidden item 3
