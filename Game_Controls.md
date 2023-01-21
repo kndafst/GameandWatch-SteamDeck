@@ -4,22 +4,104 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 
 ## Game List
 
-- [x] **item 1
-  - hidden item 2
-  - hidden item 3
+- [x] Armored Battle Crew
+  
+- [x] Banana Town 
 
-** - [x] item 2
-  - hidden item 2
-  - hidden item 3
+- [] Baseball
 
-- [x] ** item 3
-  - hidden item 2
-  - hidden item 3
+- [] Bomb Fight
 
-- [x] item 4
-  - hidden item 2
-  - hidden item 3
+- [] Caccia al Ladro
 
-- [x] item 5
-  - hidden item 2
-  - hidden item 3
+- [] Cessate il Fuoco
+
+- [] Chicky Woggy
+
+- [] Condor
+
+- [] Crazy Chewy
+
+- [] Defendo
+
+- [] Donkey Angler
+
+- [] Donkey Kong
+
+- [] Donkey Kong Circus
+
+- [] Donkey Kong II
+
+- [] Donkey Kong jr
+
+- [] Dungeons and Dragons Computer Fantasy Game
+
+- [] Egg
+
+- [] Engine Room
+
+- [] Escape
+
+- [] Explorers of Space
+
+- [] Fowling
+
+- [] Frog Boaster
+  
+- [] Galaxy II
+
+- [] Grab Man
+
+- [] Hippo Teeth
+
+- [] Hot Line
+
+- [] Las Vegas
+
+- [] Lifeboat
+
+- [] Mario Bros.
+
+- [] Mario Bombs Away
+
+- [] Mickey Mouse
+
+- [] Monkey
+
+- [] Monkey Jump
+
+- [] Motor Cross
+
+- [] Pac Man
+
+- [] Pancake
+
+- [] Parachute
+
+- [] Penguin Land
+
+- [] Pirate
+
+- [] Roller Coaster
+
+- [] Safari
+
+- [] Sleep Walker
+
+- [] Snoopy
+
+- [] Snoopy Tennis
+
+- [] Sub Chase
+
+- [] Tennis Menace
+
+- [] Tom & Jerry Popper
+
+- [] Towering Rescue
+
+- [] Tron
+
+- [] Turtle Bridge
+
+- [] Wild Man Jump
