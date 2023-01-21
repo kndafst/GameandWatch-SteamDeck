@@ -24,9 +24,9 @@ If you follow the detailed steps below, you will be able to play game and watch 
 12. Start in directory: 
 
 ### Parser Specific Configuration
-13. User's glob: `${title}@(.mgw|.MGW|.7z|.7Z|.zip|.ZIP`
+13. User's glob: `${title}@(.mgw|.MGW|.7z|.7Z|.zip|.ZIP)`
 
-No further changes are necessary 
+No further changes are necessary, under welcome to parser configuration, at the bottom click on save, if everything is working properly you will see a green dot to the left of game and watch under your parser listing, go up to preview and generate a new app list.
 
 [Game Controls](/Game_Controls.md)
 
