@@ -5,8 +5,24 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 ## Game List
 
 - [x] Armored Battle Crew
-  
+	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left Button  | Z Key  | L1  |
+	| D Pad | Keyboard Arrow Keys  | D Pad  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
+	  
 - [x] Banana Town 
+	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left Up Button  | Keyboard Arrow Key Up  | D Pad Up  |
+	| Left Down Button  | Keyboard Arrow Key Down  | D Pad Down  |
+	| Right Up Button  | S Key  | X and Y Button   |
+	| Right Down Button  | Z Key  | A and B Button  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
+
+	| A, B, and Time are selected through the use of select and start buttons once programmed. |
 
 - [] Baseball
 
