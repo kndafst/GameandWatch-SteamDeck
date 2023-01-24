@@ -6,6 +6,8 @@ One day I noticed that my SteamDeck had a rom folder for Game and Watch files so
 
 If you follow the detailed steps below, you will be able to play game and watch files on the steam deck. 
 
+### You will need a keyboard and a mouse to perfom the following steps
+
 ## Steps:
 ### Basic Configuration
 1. Parser type: `Glob`
@@ -13,12 +15,12 @@ If you follow the detailed steps below, you will be able to play game and watch 
 3. Steam category: `${Game and Watch}`
 4. Steam directory: `${steamdirglobal}`
 5. User accounts: 
-6. ![image for step 6](https://kndafst.com/wp-content/uploads/2023/01/step6.png)
+6. ![image for step 6](https://kndafst.com/wp-content/uploads/2023/01/step9.png)
 7. ROMs directory: `${romsdirglobal}/gameandwatch`
 
 ### Executable Configuration
 8. Executable: `${retroarchpath}`
-9. ![image for step 9](https://kndafst.com/wp-content/uploads/2023/01/step9.png)
+9. ![image for step 9](https://kndafst.com/wp-content/uploads/2023/01/step6.png)
 10. Command line arguments: `run org.libretro.RetroArch -L ${os:win|cores|${os:mac|${racores}|${os:linux|${racores}}}}${/}gw_libretro.${os:win|dll|${os:mac|dylib|${os:linux|so}}} "${filePath}"`
 11. Executable modifier: `"${exePath}"`
 12. Start in directory: 

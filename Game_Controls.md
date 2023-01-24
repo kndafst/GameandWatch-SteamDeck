@@ -4,7 +4,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 
 ## Game List
 
-- [x] Armored Battle Crew
+- [x] Armored Battle Crew (Mattel Electronics, 1978)
 	| Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Left Button  | Z Key  | L1  |
@@ -12,7 +12,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
 	  
-- [x] Banana Town 
+- [x] Banana Town (VTech, Time & Fun, 1981)
 	| Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Left Up Button  | Keyboard Arrow Key Up  | D Pad Up  |
@@ -24,100 +24,134 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 
 	| A, B, and Time are selected through the use of select and start buttons once programmed. |
 
-- [] Baseball
+- [x] Baseball (VTech, Explorer Time & Fun, 1984)
+	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| CHR Rest/Lap  | Keyboard Arrow Key Left  | Left  |
+	| CHR Start/Stop  | Keyboard Arrow Key Right  | D Pad Right  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
+	| Light  | I couldn't get  | This to work   |
 
-- [] Bomb Fight
+- [x] Bomb Fight (VTech, Mini Time & Fun, 1982)
+	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Shoot (left side)  | Keyboard Arrow Z  | A  |
+	| CHR Rest/Lap  | Keyboard Arrow Key Left  | Left  |
+	| Shoot (right side)  | Keyboard Arrow Key Z  | A|
+	| CHR Start/Stop  | Keyboard Arrow Key Right  | D Pad Right  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
-- [] Caccia al Ladro
+- [] Caccia al Ladro (VTech/Polistil, Mini Time & Fun, 1984)
 
-- [] Cessate il Fuoco
+- [] Cessate il Fuoco (VTech/Polistil, Mini Time & Fun, 1984)
 
-- [] Chicky Woggy
+- [] Chicky Woggy (VTech, Electronic Tini-Arcade, 1982)
 
-- [] Condor
+- [] Condor (VTech, Time & Fun, 1981)
 
-- [] Crazy Chewy
+- [] Crazy Chewy (VTech, Electronic Tini-Arcade, 1982)
 
-- [] Defendo
+- [] Defendo (VTech, Explorer Time & Fun, 1984)
 
-- [] Donkey Angler
+- [] Donkey Angler (Gakken, LCD Card Game, 1983)
 
-- [] Donkey Kong
+- [] Donkey Kong (Coleco, 1982)
 
-- [] Donkey Kong Circus
+- [] Donkey Kong (Nintendo, Game & Watch Multi Screen, 1982)
 
-- [] Donkey Kong II
+- [] Donkey Kong "Special Edition" (Nintendo, Game & Watch Multi Screen, 1982)
 
-- [] Donkey Kong jr
+- [] Donkey Kong Circus (Nintendo, Game & Watch Panorama Screen, 1984)
 
-- [] Dungeons and Dragons Computer Fantasy Game
+- [] Donkey Kong II (Nintendo, Game & Watch Multi Screen, 1983)
 
-- [] Egg
+- [] Donkey Kong jr (Nintendo, Game & Watch Panorama Screen, 1983)
 
-- [] Engine Room
+- [] Donkey Kong Junior (Coleco, 1983)
 
-- [] Escape
+- [] Dungeons and Dragons Computer Fantasy Game (Mattel Electronics, Action Arcade Series, 1981)
 
-- [] Explorers of Space
+- [] Egg (Nintendo, Game & Watch Wide Screen, 1981)
 
-- [] Fowling
+- [] Engine Room (VTech, Explorer Time & Fun, 1984)
 
-- [] Frog Boaster
+- [] Escape (VTech, Time & Fun, 1981)
+
+- [] Explorers of Space (Elektronika, 1989)
+
+- [] Fowling (Elektronika, 1989)
+
+- [] Frog Boaster (Elektronika, 1989)
   
-- [] Galaxy II
+- [] Galaxy II (Epoch, 1981)
 
-- [] Grab Man
+- [] Grab Man (unknown manufacturer, Game & Time series, 198x)
 
-- [] Hippo Teeth
+- [] Hippo Teeth (VTech, Mini Time & Fun, 1982)
 
-- [] Hot Line
+- [] Hippo Teeth (VTech, Sporty Time & Fun, 1982)
 
-- [] Las Vegas
+- [] Hot Line (VTech, Mini Time & Fun, 1982)
 
-- [] Lifeboat
+- [] Hot Line (VTech, Sporty Time & Fun, 1982)
 
-- [] Mario Bros.
+- [] Las Vegas (Bandai Electronics, LCD Game Digital, 1981)
 
-- [] Mario Bombs Away
+- [] Lifeboat (Nintendo, Game & Watch Multi Screen, 1983)
 
-- [] Mickey Mouse
+- [] Mario Bros. (Nintendo, Game & Watch Multi Screen, 1983)
 
-- [] Monkey
+- [] Mario Bombs Away (Nintendo, Game & Watch Panorama Screen, 1983)
+ 
+- [] Mickey Mouse (Nintendo, Game & Watch Panorama Screen, 1984)
 
-- [] Monkey Jump
+- [] Mickey Mouse (Nintendo, Game & Watch Wide Screen, 1981)
 
-- [] Motor Cross
+- [] Monkey (VTech, Time & Fun, 1981)
 
-- [] Pac Man
+- [] Monkey Jump (VTech, Arcade Time & Fun, 1982)
 
-- [] Pancake
+- [] Motor Cross (Queentex, 199x)
 
-- [] Parachute
+- [] Pac Man (Tomytronic, 1981)
 
-- [] Penguin Land
+- [] Pancake (VTech, Time & Fun, 1981)
 
-- [] Pirate
+- [] Parachute (Nintendo, Game & Watch Wide Screen, 1981)
 
-- [] Roller Coaster
+- [] Penguin Land (Bandai Electronics, LSI Game Double Play, 1983)
 
-- [] Safari
+- [] Pirate (VTech, Time & Fun, 1981)
 
-- [] Sleep Walker
+- [] Popeye (Nintendo, Game & Watch Wide Screen, 1981)
+    - I don't have this game'
 
-- [] Snoopy
+- [] Roller Coaster (VTech, Explorer Time & Fun, 1984)
 
-- [] Snoopy Tennis
+- [] Safari (VTech, Time & Fun, 1981)
 
-- [] Sub Chase
+- [] Sleep Walker (VTech, Time & Fun, 1981)
 
-- [] Tennis Menace
+- [] Snoopy (Nintendo, Game & Watch Panorama Screen, 1983)
 
-- [] Tom & Jerry Popper
+- [] Snoopy (Nintendo, Game & Watch Table Top, 1983)
 
-- [] Towering Rescue
+- [] Snoopy Tennis (Nintendo, Game & Watch Wide Screen, 1982)
 
-- [] Tron
+- [] Sub Chase (Mattel Electronics, 1978)
 
-- [] Turtle Bridge
+- [] Tennis Menace (VTech, Mini Time & Fun, 1982)
 
-- [] Wild Man Jump
+- [] Tennis Menace (VTech, Sporty Time & Fun, 1982)
+
+- [] Tom & Jerry Popper (Gakken, LCD Card Game, 1983)
+
+- [] Towering Rescue (Gakken, LCD Card Game, 1981)
+
+- [] Tron (Tomytronic, 1982)
+
+- [] Turtle Bridge (Nintendo, Game & Watch Wide Screen, 1982)
+
+- [] Wild Man Jump (VTech, Electronic Tini-Arcade, 1981)
