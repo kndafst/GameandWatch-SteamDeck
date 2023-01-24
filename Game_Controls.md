@@ -44,7 +44,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 
 	|   As far as I could tell from the game/my play through the shoot button on the left and right hand side are the same. |
 
- - [] Caccia al Ladro (VTech/Polistil, Mini Time & Fun, 1984)
+ - [x] Caccia al Ladro (VTech/Polistil, Mini Time & Fun, 1984)
  	| Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Shoot (left side)  | Z Key  | A Button |
@@ -56,7 +56,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 
 	|   As far as I could tell from the game/my play through the shoot button on the left and right hand side are the same. |
 
- - [] Cessate il Fuoco (VTech/Polistil, Mini Time & Fun, 1984)
+ - [x] Cessate il Fuoco (VTech/Polistil, Mini Time & Fun, 1984)
   	| Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Shoot (left side)  | Z Key | A Button |
@@ -68,7 +68,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 
 	|   As far as I could tell from the game/my play through the shoot button on the left and right hand side are the same. |
 
- - [] Chicky Woggy (VTech, Electronic Tini-Arcade, 1982)
+ - [x] Chicky Woggy (VTech, Electronic Tini-Arcade, 1982)
    	| Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Left  | Keyboard Arrow Left  | D Pad Left  |
@@ -78,7 +78,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
 
-- [] Chicky Woggy (VTech, Electronic Tini-Arcade, 1982)
+- [x] Chicky Woggy (VTech, Electronic Tini-Arcade, 1982)
    	| Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Left  | Keyboard Arrow Left  | D Pad Left  |
@@ -88,7 +88,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
 
- - [] Condor (VTech, Time & Fun, 1981)
+ - [x] Condor (VTech, Time & Fun, 1981)
     | Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Left  | Keyboard Arrow Left  | D Pad Left  |
@@ -96,7 +96,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
 
- - [] Crazy Chewy (VTech, Electronic Tini-Arcade, 1982)
+ - [x] Crazy Chewy (VTech, Electronic Tini-Arcade, 1982)
 	| Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Left  | Keyboard Arrow Left  | D Pad Left  |
@@ -106,7 +106,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
 
- - [] Defendo (VTech, Explorer Time & Fun, 1984)
+ - [x] Defendo (VTech, Explorer Time & Fun, 1984)
  	| Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Left  | Keyboard Arrow Left  | D Pad Left  |
@@ -114,14 +114,14 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
 
- - [] Donkey Angler (Gakken, LCD Card Game, 1983)
+ - [x] Donkey Angler (Gakken, LCD Card Game, 1983)
  	| Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Game A  | Keyboard Arrow Left  | D Pad Left  |
 	| Bame B  | Keyboard Arrow Right | D Pad Right  |
 	| Time | Right Shift  | Select Button  |
 
- - [] Donkey Kong (Coleco, 1982)
+ - [x] Donkey Kong (Coleco, 1982)
     | Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Left  | Keyboard Arrow Left  | D Pad Left  |
@@ -132,7 +132,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
 
- - [] Donkey Kong (Nintendo, Game & Watch Multi Screen, 1982)
+ - [x] Donkey Kong (Nintendo, Game & Watch Multi Screen, 1982)
     | Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Left  | Keyboard Arrow Left  | D Pad Left  |
@@ -143,7 +143,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
 
- - [] Donkey Kong "Special Edition" (Nintendo, Game & Watch Multi Screen, 1982)
+ - [x] Donkey Kong "Special Edition" (Nintendo, Game & Watch Multi Screen, 1982)
     | Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Left  | Keyboard Arrow Left  | D Pad Left  |
@@ -153,7 +153,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 
  - [] Donkey Kong Circus (Nintendo, Game & Watch Panorama Screen, 1984)
 
- - [] Donkey Kong II (Nintendo, Game & Watch Multi Screen, 1983)
+ - [x] Donkey Kong II (Nintendo, Game & Watch Multi Screen, 1983)
     | Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Left  | Keyboard Arrow Left  | D Pad Left  |
@@ -164,7 +164,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
 
- - [] Donkey Kong jr (Nintendo, Game & Watch Panorama Screen, 1983)
+ - [x] Donkey Kong jr (Nintendo, Game & Watch Panorama Screen, 1983)
     | Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Left  | Keyboard Arrow Left  | D Pad Left  |
@@ -175,7 +175,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
 
- - [] Donkey Kong Junior (Coleco, 1983)
+ - [x] Donkey Kong Junior (Coleco, 1983)
     | Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Left  | Keyboard Arrow Left  | D Pad Left  |
@@ -186,7 +186,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
 
-- [] Donkey Kong jr Tabletop (Nintendo, Game & Watch Panorama Screen, 1983)
+- [x] Donkey Kong jr Tabletop (Nintendo, Game & Watch Panorama Screen, 1983)
     | Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Left  | Keyboard Arrow Left  | D Pad Left  |
@@ -197,7 +197,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
 
- - [] Dungeons and Dragons Computer Fantasy Game (Mattel Electronics, Action Arcade Series, 1981)
+ - [x] Dungeons and Dragons Computer Fantasy Game (Mattel Electronics, Action Arcade Series, 1981)
     | Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Cursor  | Z Key  | D Pad (It Cycles) |
@@ -206,7 +206,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
 
- - [] Egg (Nintendo, Game & Watch Wide Screen, 1981)
+ - [x] Egg (Nintendo, Game & Watch Wide Screen, 1981)
     | Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
 	| Left Up  | Keyboard Arrow Up  | Left Joystick Up |
