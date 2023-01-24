@@ -31,14 +31,13 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| CHR Start/Stop  | Keyboard Arrow Key Right  | D Pad Right  |
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
-	| Light  | I couldn't get  | This to work   |
 
  - [x] Bomb Fight (VTech, Mini Time & Fun, 1982)
 	| Game and Watch | Keyboard | SteamDeck |
 	| ------------- | ------------- | ------------- |
-	| Shoot (left side)  | Keyboard Arrow Z  | A  |
+	| Shoot (left side)  | Z Key  | A Button |
 	| CHR Rest/Lap  | Keyboard Arrow Key Left  | D Pad Left  |
-	| Shoot (right side)  | Keyboard Arrow Key Z  | A|
+	| Shoot (right side)  | Z Key  | A Button|
 	| CHR Start/Stop  | Keyboard Arrow Key Right  | D Pad Right  |
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
@@ -46,36 +45,180 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	|   As far as I could tell from the game/my play through the shoot button on the left and right hand side are the same. |
 
  - [] Caccia al Ladro (VTech/Polistil, Mini Time & Fun, 1984)
+ 	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Shoot (left side)  | Z Key  | A Button |
+	| CHR Rest/Lap  | Keyboard Arrow Key Left  | D Pad Left  |
+	| Shoot (right side)  | Z Key  | A Button|
+	| CHR Start/Stop  | Keyboard Arrow Key Right  | D Pad Right  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
+
+	|   As far as I could tell from the game/my play through the shoot button on the left and right hand side are the same. |
 
  - [] Cessate il Fuoco (VTech/Polistil, Mini Time & Fun, 1984)
+  	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Shoot (left side)  | Z Key | A Button |
+	| CHR Rest/Lap  | Keyboard Arrow Key Left  | D Pad Left  |
+	| Shoot (right side)  | Z Key  | A Button|
+	| CHR Start/Stop  | Keyboard Arrow Key Right  | D Pad Right  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
+
+	|   As far as I could tell from the game/my play through the shoot button on the left and right hand side are the same. |
 
  - [] Chicky Woggy (VTech, Electronic Tini-Arcade, 1982)
+   	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Up  | Keyboard Arrow Up | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
+
+- [] Chicky Woggy (VTech, Electronic Tini-Arcade, 1982)
+   	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Up  | Keyboard Arrow Up | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Condor (VTech, Time & Fun, 1981)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Crazy Chewy (VTech, Electronic Tini-Arcade, 1982)
+	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Up  | Keyboard Arrow Up | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Defendo (VTech, Explorer Time & Fun, 1984)
+ 	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Donkey Angler (Gakken, LCD Card Game, 1983)
+ 	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Game A  | Keyboard Arrow Left  | D Pad Left  |
+	| Bame B  | Keyboard Arrow Right | D Pad Right  |
+	| Time | Right Shift  | Select Button  |
 
  - [] Donkey Kong (Coleco, 1982)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Up  | Keyboard Arrow Up | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down  |
+	| Start / Jump  | Z Key  | A Button|
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Donkey Kong (Nintendo, Game & Watch Multi Screen, 1982)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Up  | Keyboard Arrow Up | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down  |
+	| Start / Jump  | Z Key  | A Button|
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Donkey Kong "Special Edition" (Nintendo, Game & Watch Multi Screen, 1982)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Donkey Kong Circus (Nintendo, Game & Watch Panorama Screen, 1984)
 
  - [] Donkey Kong II (Nintendo, Game & Watch Multi Screen, 1983)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Up  | Keyboard Arrow Up | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down  |
+	| Start / Jump  | Z Key  | A Button|
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Donkey Kong jr (Nintendo, Game & Watch Panorama Screen, 1983)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Up  | Keyboard Arrow Up | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down  |
+	| Start / Jump  | Z Key  | A Button|
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Donkey Kong Junior (Coleco, 1983)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Up  | Keyboard Arrow Up | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down  |
+	| Start / Jump  | Z Key  | A Button|
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
+
+- [] Donkey Kong jr Tabletop (Nintendo, Game & Watch Panorama Screen, 1983)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Up  | Keyboard Arrow Up | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down  |
+	| Start / Jump  | Z Key  | A Button|
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Dungeons and Dragons Computer Fantasy Game (Mattel Electronics, Action Arcade Series, 1981)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Cursor  | Z Key  | D Pad (It Cycles) |
+	| Attack  | X Key | R Trigger |
+	| Move | S Key | A Button |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Egg (Nintendo, Game & Watch Wide Screen, 1981)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left Up  | Keyboard Arrow Up  | Left Joystick Up |
+	| Left Down  | Keyboard Arrow Down | Left Joystick Down |
+	| Right Up  | S Key  | Right Joystick Up |
+	| Right Down  | Z Key | Right Joystick Down |
+	| Game A  | Q Key | L1 Bumper  |
+	| Game B  | W Key  | R1 Bumper  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
+
+	|   I struggled on how I wanted to do this game, but after multiple button playthroughs, I really preferred using the joysticks for this operation. I do think that it can be setup using left, down and B, A buttons, but this is what I chose, feel free to change it for your game.  |
 
  - [] Engine Room (VTech, Explorer Time & Fun, 1984)
 
