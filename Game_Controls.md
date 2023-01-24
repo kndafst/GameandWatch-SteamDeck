@@ -43,7 +43,7 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| Select Button  | Right Shift  | Select Button  |
 	| Start Button  | Enter Key  | Start Button  |
 
-As far as I could tell from the game/my play through the shoot button on the left and right hand side are the same. 
+	|   As far as I could tell from the game/my play through the shoot button on the left and right hand side are the same. |
 
  - [] Caccia al Ladro (VTech/Polistil, Mini Time & Fun, 1984)
 
