@@ -6,6 +6,8 @@ One day I noticed that my SteamDeck had a rom folder for Game and Watch files so
 
 If you follow the detailed steps below, you will be able to play game and watch files on the steam deck. 
 
+This system will only work with files that end with .mgw, I do not have instructions yet for the MAME version of these games which start with gnw_ and end in .zip. 
+
 ### You will need a keyboard and a mouse to perfom the following steps
 
 ## Steps:
