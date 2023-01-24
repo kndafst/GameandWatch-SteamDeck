@@ -1,6 +1,6 @@
 # GameandWatch-SteamDeck
 
-###Parser settings to play Nintendo Game and Watch games on the SteamDeck
+### Parser settings to play Nintendo Game and Watch games on the SteamDeck
 
 One day I noticed that my SteamDeck had a rom folder for Game and Watch files so I ported my roms over with the hope of being able to play them on the SteamDeck going forward. After some trial and error, I discovered that the official EmuDeck parser wasn't setup to display Game and Watch files. I've created the following instructions to help all users fill in the parser information easily with a working game library. 
 
