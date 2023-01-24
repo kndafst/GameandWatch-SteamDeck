@@ -1,6 +1,6 @@
 # GameandWatch-SteamDeck
 
-Parser settings to play Nintendo Game and Watch games on the SteamDeck
+###Parser settings to play Nintendo Game and Watch games on the SteamDeck
 
 One day I noticed that my SteamDeck had a rom folder for Game and Watch files so I ported my roms over with the hope of being able to play them on the SteamDeck going forward. After some trial and error, I discovered that the official EmuDeck parser wasn't setup to display Game and Watch files. I've created the following instructions to help all users fill in the parser information easily with a working game library. 
 
@@ -8,7 +8,7 @@ If you follow the detailed steps below, you will be able to play game and watch 
 
 This system will only work with files that end with .mgw, I do not have instructions yet for the MAME version of these games which start with gnw_ and end in .zip. 
 
-### You will need a keyboard and a mouse to perfom the following steps
+### You will need a keyboard and a mouse to perfom the following steps.
 
 ## Steps:
 ### Basic Configuration
