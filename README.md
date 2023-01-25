@@ -35,4 +35,4 @@ No further changes are necessary, under welcome to parser configuration, at the 
 [Game Controls](/Game_Controls.md)
 
 
-####Very special thanks to Madrigals Simulators for all of the work they have done to make this a possibility. 
+#### Very special thanks to Madrigals Simulators for all of the work they have done to make this a possibility. 
