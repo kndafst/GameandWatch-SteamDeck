@@ -222,17 +222,71 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 
  - [] Engine Room (VTech, Explorer Time & Fun, 1984)
 
- - [] Escape (VTech, Time & Fun, 1981)
+ - [x] Escape (VTech, Time & Fun, 1981)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| CHR Reset  | Keyboard Arrow Left | Left D Pad  |
+	| CHR Start/Stop  | Keyboard Arrow Right  | Right D Pad  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Explorers of Space (Elektronika, 1989)
+ - [x] Explorers of Space (Elektronika, 1989)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left Up  | Keyboard Arrow Up  | Left Joystick Up |
+	| Left Down  | Keyboard Arrow Down | Left Joystick Down |
+	| Right Up  | S Key  | Right Joystick Up |
+	| Right Down  | Z Key | Right Joystick Down |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Fowling (Elektronika, 1989)
+	|   I struggled on how I wanted to do this game, but after multiple button playthroughs, I really preferred using the joysticks for this operation. I do think that it can be setup using left, down and B, A buttons, but this is what I chose, feel free to change it for your game.  |
 
- - [] Frog Boaster (Elektronika, 1989)
+ - [x] Fowling (Elektronika, 1989)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left Up  | Keyboard Arrow Up  | Left Joystick Up |
+	| Left Down  | Keyboard Arrow Down | Left Joystick Down |
+	| Right Up  | S Key  | Right Joystick Up |
+	| Right Down  | Z Key | Right Joystick Down |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
+
+	|   I struggled on how I wanted to do this game, but after multiple button playthroughs, I really preferred using the joysticks for this operation. I do think that it can be setup using left, down and B, A buttons, but this is what I chose, feel free to change it for your game.  |
+
+ - [x] Frog Boaster (Elektronika, 1989)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left Up  | Keyboard Arrow Up  | Left Joystick Up |
+	| Left Down  | Keyboard Arrow Down | Left Joystick Down |
+	| Right Up  | S Key  | Right Joystick Up |
+	| Right Down  | Z Key | Right Joystick Down |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
+
+	|   I struggled on how I wanted to do this game, but after multiple button playthroughs, I really preferred using the joysticks for this operation. I do think that it can be setup using left, down and B, A buttons, but this is what I chose, feel free to change it for your game.  |
   
- - [] Galaxy II (Epoch, 1981)
+ - [x] Galaxy II (Epoch, 1981)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left | Left D Pad  |
+	| Right  | Keyboard Arrow Right  | Right D Pad  |
+	| Fire  | Z Key  | A Button |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Grab Man (unknown manufacturer, Game & Time series, 198x)
+ - [x] Grab Man (unknown manufacturer, Game & Time series, 198x)
+   	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Up  | Keyboard Arrow Up | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down  |
+	| Halt  | Needs Work  | Needs Work   |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
+
+	|   With all of my testing, 1 This game is weird, 2 I could not figure out how to activate the halt button, that might have made the game less weird. If someone has suggestions I'd welcome them.   |
 
  - [] Hippo Teeth (VTech, Mini Time & Fun, 1982)
 
@@ -242,29 +296,118 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 
  - [] Hot Line (VTech, Sporty Time & Fun, 1982)
 
- - [] Las Vegas (Bandai Electronics, LCD Game Digital, 1981)
+ - [x] Las Vegas (Bandai Electronics, LCD Game Digital, 1981)
+   	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Lifeboat (Nintendo, Game & Watch Multi Screen, 1983)
+ - [x] Lifeboat (Nintendo, Game & Watch Multi Screen, 1983)
+   	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Mario Bros. (Nintendo, Game & Watch Multi Screen, 1983)
+ - [x] Mario Bros. (Nintendo, Game & Watch Multi Screen, 1983)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left Up  | Keyboard Arrow Up  | Left Joystick Up |
+	| Left Down  | Keyboard Arrow Down | Left Joystick Down |
+	| Right Up  | S Key  | Right Joystick Up |
+	| Right Down  | Z Key | Right Joystick Down |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Mario Bombs Away (Nintendo, Game & Watch Panorama Screen, 1983)
+	|   I struggled on how I wanted to do this game, but after multiple button playthroughs, I really preferred using the joysticks for this operation. I do think that it can be setup using left, down and B, A buttons, but this is what I chose, feel free to change it for your game.  |
+
+ - [x] Mario Bombs Away (Nintendo, Game & Watch Panorama Screen, 1983)
+   	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Bomb  | Z Key | A Button  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
  
- - [] Mickey Mouse (Nintendo, Game & Watch Panorama Screen, 1984)
+ - [x] Mickey Mouse (Nintendo, Game & Watch Panorama Screen, 1984)
+   	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Mickey Mouse (Nintendo, Game & Watch Wide Screen, 1981)
+ - [x] Mickey Mouse (Nintendo, Game & Watch Wide Screen, 1981)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left Up  | Keyboard Arrow Up  | Left Joystick Up |
+	| Left Down  | Keyboard Arrow Down | Left Joystick Down |
+	| Right Up  | S Key  | Right Joystick Up |
+	| Right Down  | Z Key | Right Joystick Down |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Monkey (VTech, Time & Fun, 1981)
+	|   I struggled on how I wanted to do this game, but after multiple button playthroughs, I really preferred using the joysticks for this operation. I do think that it can be setup using left, down and B, A buttons, but this is what I chose, feel free to change it for your game.  |
 
- - [] Monkey Jump (VTech, Arcade Time & Fun, 1982)
+ - [x] Monkey (VTech, Time & Fun, 1981)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| CHR Reset  | Keyboard Arrow Left | Left D Pad  |
+	| CHR Start/Stop  | Keyboard Arrow Right  | Right D Pad  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Motor Cross (Queentex, 199x)
+ - [x] Monkey Jump (VTech, Arcade Time & Fun, 1982)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Up  | Keyboard Arrow Up  | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down |
+	| Left  | Keyboard Arrow Left  | D Pad Left |
+	| Right  | Keyboard Arrow Right | D Pad Right |
+	| Jump |  Z Key  | A Button
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Pac Man (Tomytronic, 1981)
+ - [x] Motor Cross (Queentex, 199x)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Up  | Keyboard Arrow Up  | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down |
+	| Left  | Keyboard Arrow Left  | D Pad Left |
+	| Right  | Keyboard Arrow Right | D Pad Right |
+	| Jump |  Z Key  | A Button
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Pancake (VTech, Time & Fun, 1981)
+ - [x] Pac Man (Tomytronic, 1981)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Up  | Keyboard Arrow Up  | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down |
+	| Left  | Keyboard Arrow Left  | D Pad Left |
+	| Right  | Keyboard Arrow Right | D Pad Right |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Parachute (Nintendo, Game & Watch Wide Screen, 1981)
+ - [x] Pancake (VTech, Time & Fun, 1981)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| CHR Reset  | Keyboard Arrow Left | Left D Pad  |
+	| CHR Start/Stop  | Keyboard Arrow Right  | Right D Pad  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
+
+ - [x] Parachute (Nintendo, Game & Watch Wide Screen, 1981)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left |
+	| Right  | Keyboard Arrow Right | D Pad Right |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Penguin Land (Bandai Electronics, LSI Game Double Play, 1983)
 
