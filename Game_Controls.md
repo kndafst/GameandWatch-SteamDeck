@@ -220,7 +220,13 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 
 	|   I struggled on how I wanted to do this game, but after multiple button playthroughs, I really preferred using the joysticks for this operation. I do think that it can be setup using left, down and B, A buttons, but this is what I chose, feel free to change it for your game.  |
 
- - [] Engine Room (VTech, Explorer Time & Fun, 1984)
+ - [x] Engine Room (VTech, Explorer Time & Fun, 1984)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| CHR Reset/Lap  | Keyboard Arrow Left | Left D Pad  |
+	| CHR Start/Stop  | Keyboard Arrow Right  | Right D Pad  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [x] Escape (VTech, Time & Fun, 1981)
     | Game and Watch | Keyboard | SteamDeck |
@@ -288,13 +294,39 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 
 	|   With all of my testing, 1 This game is weird, 2 I could not figure out how to activate the halt button, that might have made the game less weird. If someone has suggestions I'd welcome them.   |
 
- - [] Hippo Teeth (VTech, Mini Time & Fun, 1982)
+ - [x] Hippo Teeth (VTech, Mini Time & Fun, 1982)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| CHR Reset  | Keyboard Arrow Left | Left D Pad  |
+	| CHR Start/Stop  | Keyboard Arrow Right  | Right D Pad  |
+	| CHR Start/Stop  | Z Key  | A Button  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Hippo Teeth (VTech, Sporty Time & Fun, 1982)
+ - [x] Hippo Teeth (VTech, Sporty Time & Fun, 1982)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| CHR Reset  | Keyboard Arrow Left | Left D Pad  |
+	| CHR Start/Stop  | Keyboard Arrow Right  | Right D Pad  |
+	| CHR Start/Stop  | Z Key  | A Button  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Hot Line (VTech, Mini Time & Fun, 1982)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| CHR Reset  | Keyboard Arrow Left | Left D Pad  |
+	| CHR Start/Stop  | Keyboard Arrow Right  | Right D Pad  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Hot Line (VTech, Sporty Time & Fun, 1982)
+     | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Chrono Inter  | Keyboard Arrow Left | Left D Pad  |
+	| Chrono M/A  | Keyboard Arrow Right  | Right D Pad  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [x] Las Vegas (Bandai Electronics, LCD Game Digital, 1981)
    	| Game and Watch | Keyboard | SteamDeck |
@@ -410,36 +442,137 @@ On the SteamDeck I am working to map all of the keys per game and am creating co
 	| Start Button  | Enter Key  | Start Button  |
 
  - [] Penguin Land (Bandai Electronics, LSI Game Double Play, 1983)
+	| I don't even understand this game. If you explain it to me, I"ll work on controls. |
 
  - [] Pirate (VTech, Time & Fun, 1981)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| CHR Reset  | Keyboard Arrow Left | Left D Pad  |
+	| CHR Start/Stop  | Keyboard Arrow Right  | Right D Pad  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Popeye (Nintendo, Game & Watch Wide Screen, 1981)
-    - I don't have this game'
+    - I don't have this game
 
  - [] Roller Coaster (VTech, Explorer Time & Fun, 1984)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| CHR Reset  | Keyboard Arrow Left | Left D Pad  |
+	| CHR Start/Stop  | Keyboard Arrow Right  | Right D Pad  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Safari (VTech, Time & Fun, 1981)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| CHR Reset  | Keyboard Arrow Left | Left D Pad  |
+	| CHR Start/Stop  | Keyboard Arrow Right  | Right D Pad  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Sleep Walker (VTech, Time & Fun, 1981)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left Up  | Keyboard Arrow Up  | Left Joystick Up |
+	| Left Down  | Keyboard Arrow Down | Left Joystick Down |
+	| Right Up  | S Key  | Right Joystick Up |
+	| Right Down  | Z Key | Right Joystick Down |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
+
+	|   I struggled on how I wanted to do this game, but after multiple button playthroughs, I really preferred using the joysticks for this operation. I do think that it can be setup using left, down and B, A buttons, but this is what I chose, feel free to change it for your game.  |s
 
  - [] Snoopy (Nintendo, Game & Watch Panorama Screen, 1983)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left |
+	| Right  | Keyboard Arrow Right | D Pad Right |
+	| Hit |  Z Key  | A Button
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Snoopy (Nintendo, Game & Watch Table Top, 1983)
+ - [] Snoopy Table Top (Nintendo, Game & Watch Table Top, 1983)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left |
+	| Right  | Keyboard Arrow Right | D Pad Right |
+	| Hit |  Z Key  | A Button
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Snoopy Tennis (Nintendo, Game & Watch Wide Screen, 1982)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Up  | Keyboard Arrow Up | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down  |
+	| Hit  | Needs Work  | Needs Work   |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Sub Chase (Mattel Electronics, 1978)
+	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Up  | Keyboard Arrow Up | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down  |
+	| Left Button  | Z Key  | L1  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Tennis Menace (VTech, Mini Time & Fun, 1982)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Chrono Inter  | Keyboard Arrow Left | Left D Pad  |
+	| Chrono M/A  | Keyboard Arrow Right  | Right D Pad  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Tennis Menace (VTech, Sporty Time & Fun, 1982)
 
  - [] Tom & Jerry Popper (Gakken, LCD Card Game, 1983)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Game A  | Keyboard Arrow Left | Left D Pad  |
+	| Game B  | Keyboard Arrow Right  | Right D Pad  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Towering Rescue (Gakken, LCD Card Game, 1981)
+    | Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left Arrow  | Keyboard Arrow Left | Left D Pad  |
+	| Right Arrow  | Keyboard Arrow Right  | Right D Pad  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
  - [] Tron (Tomytronic, 1982)
+	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Up  | Keyboard Arrow Up | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down  |
+	| Speed / Shoot  | Z Key  | A Button  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Turtle Bridge (Nintendo, Game & Watch Wide Screen, 1982)
+ - [a] Turtle Bridge (Nintendo, Game & Watch Wide Screen, 1982)
+ 	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
 
- - [] Wild Man Jump (VTech, Electronic Tini-Arcade, 1981)
+ - [a] Wild Man Jump (VTech, Electronic Tini-Arcade, 1981)
+	| Game and Watch | Keyboard | SteamDeck |
+	| ------------- | ------------- | ------------- |
+	| Left  | Keyboard Arrow Left  | D Pad Left  |
+	| Right  | Keyboard Arrow Right | D Pad Right  |
+	| Up  | Keyboard Arrow Up | D Pad Up |
+	| Down  | Keyboard Arrow Down | D Pad Down  |
+	| Shoot  | Z Key  | A Button  |
+	| Select Button  | Right Shift  | Select Button  |
+	| Start Button  | Enter Key  | Start Button  |
