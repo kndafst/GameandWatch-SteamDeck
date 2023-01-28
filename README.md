@@ -9,6 +9,7 @@ If you follow the detailed [steps](/instructions.md), you will be able to play G
 This system will only work with files that end with .mgw, I do not have instructions yet for the MAME version of these games which start with gnw_ and end in .zip. 
 
 [EmuDeck Parser Instructions](/Instructions.md)
+
 [Game Controls](/Game_Controls.md)
  <!-- [Artwork](/Artwork.md) -->
  <!-- [Game Names](/Names.md) -->
